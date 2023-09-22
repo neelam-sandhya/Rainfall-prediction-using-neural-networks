@@ -1,0 +1,9 @@
+python-graphviz-0.14.2 
+numpy
+pandas
+seaborn
+matplotlib
+plotly
+Keras
+tensorflow
+sklearn
